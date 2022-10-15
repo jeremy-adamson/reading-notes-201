@@ -2,7 +2,7 @@
 
 Welome to the main page for Jeremy Adamson's reading notes for CodeFellows 201
 
-## **Fill in Subheading Later**
+## **PLACEHOLDER**
 
 Jeremy Adamson's [Github](https://github.com/jeremy-adamson/)
 
