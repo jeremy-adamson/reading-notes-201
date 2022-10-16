@@ -1,5 +1,7 @@
 # Reading 01
 
+Updated 10/15/22
+
 ## Getting Started
 
 When making a site, keep in mind:
@@ -12,7 +14,7 @@ Note to call a script
 
 * \<script src="scripts/main.js"></script>
 
-### Terms:
+### Terms
 
 * TCP/IP - communication protocols that define how data should travel across the internet
 * DNS - Domain Name System is like an address book for websites (gets the IP)
@@ -24,7 +26,7 @@ Note to call a script
 ### **Assignment**
 
 * Compose a short poem describing how HTTP sends data between computers
-  * 
+  * I have no clue how to put it into a poem but the way I understand it is HTTP would be the words written on a card/letter and the TCP/IP is the stamped envelope
 * Describe how HTML, CSS, and JS files are "parsed" in the browser
   * The browser scans an HTML file for any CSS links or scripts
   * The browser then requests the needed CSS/JS files
@@ -42,11 +44,23 @@ Note to call a script
 ### **Assignment**
 
 * What is an HTML attribute?
+  * "Provides additional information about HTML elements" [source](https://www.w3schools.com/html/html_attributes.asp)
 * Describe the Anatomy of an HTML element.
+  * An HTML element contains an opening tag (which might include an attribute with its value), content, and a closing tag
 * What is the difference bewteen the article and section element tags?
+  * An article is for a section of self-contained information/content while a non-article section depends on the rest of the site for context
 * What elements does a "typical" website include?
+  * html
+  * head
+  * meta
+  * title
+  * body
 * How does metadata influence Search Engine Optimization?
+  * It used to be the fields that seach engines would look for but apparently no longer due to spammers abusing this and filling the metadata fields with nonsense.
 * How is the meta HTML tag used when specifying metadata?
+  * the meta tag comes in two separate parts
+    * name
+    * content
 
 ## Misc
 
@@ -55,17 +69,33 @@ Note to call a script
 How to start to design a website:
 
 * What is the first step to designing a website?
-* What is the most important question to answer when designin a website?
+  * Asking the following questions
+    * What exactly is to be accomplished
+    * How will the site help get there
+    * What will be the procedure to getting there
+* What is the most important question to answer when designing a website?
+  * Determining what you want to accomplish, what is the purpose of the site.
 
 Semantics:
 
 * Why should you use an h1 element over a span element to display a top level heading?
+  * By definition h1 is what anyone would use for a top level heading.  That's what h1 means.
+  * span could make something look like a h1 heading but... it's not a heading
 * What are the benefits of using sematic tags in our HTML?
+  * Tags with meaning are just that and that's literally part of the language.  The expected language helps search engines identify what's important, it helps with other code that's looking to interact with the extisting code, CSS, having other devs decipher what you've written, etc.
 
 What is JavaScript?
 
 * Describe 2 things that require JavaScript in the browser?
+  * Interactive maps and music
 * How can you add JavaScript to an HTML document?
+  * Two ways
+    * Internal - \<script>\</script>
+    * External - \<script src = "" defer>\</script>
+
+## Things I want to know more about
+
+DOM trees
 
 ## Sources
 
@@ -80,3 +110,4 @@ What is JavaScript?
 [How to start to design a Website](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Thinking_before_coding)</p>
 [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)</p>
 [What is JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)</p>
+
