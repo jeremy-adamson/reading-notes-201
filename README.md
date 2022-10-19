@@ -10,7 +10,7 @@ Jeremy Adamson's [Github](https://github.com/jeremy-adamson/)
 
 [//]: # (Fill in titles for the placeholders listed below after each reading)
 
-* Class 1 - [PLACEHOLDER](session/class_01.md)
+* Class 1 - [Getting Started](session/class_01.md)
 * Class 2 - [PLACEHOLDER](session/class_02.md)
 * Class 3 - [PLACEHOLDER](session/class_03.md)
 * Class 4 - [PLACEHOLDER](session/class_04.md)
