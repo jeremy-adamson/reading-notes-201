@@ -1,4 +1,4 @@
-# HTML Liscs, Control Flow with JS, and the CSS Box Model
+# HTML Lists, Control Flow with JS, and the CSS Box Model
 
 ## HTML
 
@@ -39,7 +39,7 @@
   * `/=` divides whatever is to the right to the variable on the left and stores the result in the variable on the left
   * `%=` takes the modulus (remainder) after dividing the variable on the left by the value on the right and stores the result in the variable on the left
 * Read the code below and evaluate the last `expression` and explain what the result would be and why.
-  * 10dog - The first operation is adding an integer to a boolean which would convert the boolean `false` into a 0 making the sum 0.  However the next operation is attempting to add an integer to a string so the integer gets converted into a string and the two strings are concatenated leaving `10dog`
+  * 10dog - The first operation is adding an integer to a boolean which would convert the boolean `false` into a 0 making the sum 10.  However the next operation is attempting to add an integer to a string so the integer gets converted into a string and the two strings are concatenated leaving `10dog`
 * Describe a real world example of when a conditional statement should be used in a JavaScript program.
   * If a person does not have sufficient funds in their account, the transaction will be declined.  For online banking, pretty sure they'd check that in their coding.
 * Give an example of when a `Loop` is useful in JavaScript.
