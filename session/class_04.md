@@ -16,10 +16,15 @@
 ## CSS
 
 * What is meant by "normal flow"?
+  * The default setting for how a webpage lays out elements
 * What are a few differences between `block-level` and `inline` elements?
+  * Block-level elements fill up the full horizontal line while inline elements are only the size of their content
 * ___ positioning is the default for every html element
+  * Static
 * Name a few advantages to using absolute positioning on an element.
+  * Absolute positioning will allow for that block to be inserted into a page without changing the positioning of any of the other elements or blocks.
 * What is a key difference between fixed positioning and absolute positioning?
+  * Absolute positioning fixes the block to the nearest positioned ancestor while fixed positioning fixes the block with respect to the visual space
 
 ## JS
 
@@ -32,6 +37,8 @@
 ## Misc
 
 * Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
+  * Learing from other students and being able to receive differing viewpoints exposes a person to different styles of coding which one person might not have thought of on their own.
+  * When working in software development people typically don't code alone and pair programming will help prepare someone for that type of environment
 
 ## Reading
 
