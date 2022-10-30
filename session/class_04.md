@@ -11,7 +11,6 @@
 * The `href` attribute contains what information?
   * The target or web address
 * What are some ways we can ensure links on our pages are accesible to all readers?
-  * 
 
 ## CSS
 
